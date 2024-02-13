@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "App Development",
+      "type": "income",
+      "category": "Sales",
+      "price": 14000,
+      "createdAt": "2023-02-13T17:51:44.505Z"
+    },
+    {
+      "description": "AWS",
+      "price": 700,
+      "category": "Tools",
+      "type": "expense",
+      "createdAt": "2024-02-13T20:52:04.001Z",
+      "id": 2
+    },
+    {
+      "description": "Designer",
+      "price": 7000,
+      "category": "Services",
+      "type": "expense",
+      "createdAt": "2024-02-13T20:52:34.145Z",
+      "id": 3
+    },
+    {
+      "description": "Internet",
+      "price": 199,
+      "category": "invoice",
+      "type": "expense",
+      "createdAt": "2024-02-13T20:53:11.991Z",
+      "id": 4
+    }
+  ]
+}
