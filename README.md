@@ -6,7 +6,9 @@ To see the complete layout: [figma](https://www.figma.com/file/RPWBgabUl9NwAIh0u
 
 ## Features
 
-- [x]
+- [x]List transactions
+- [x]Add a income or expense transaction
+- [x]Show Summary with total about Incomes, Expenses and Total
 
 ## What was used ?
 
@@ -16,6 +18,7 @@ The project was created on react
 - [x] React Hook Forms
 - [x] Context API
 - [x] Styled Components
+- [x] JSon Server - Mock API
 
 ## For Run
 
@@ -23,6 +26,7 @@ With YARN:
 
 ```
 yarn
+yarn dev:server
 yarn dev
 ```
 
@@ -30,5 +34,6 @@ With NPM
 
 ```
 npm install
+npm run dev:server
 npm run dev
 ```
