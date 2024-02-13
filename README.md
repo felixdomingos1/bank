@@ -1,4 +1,5 @@
 # Bank
+BANK is an application for tracking income and expenses in a software developer's day-to-day life
 
 ## Layout
 
@@ -8,9 +9,9 @@ To see the complete layout: [figma](https://www.figma.com/file/RPWBgabUl9NwAIh0u
 
 ## Features
 
-- [x]List transactions
-- [x]Add a income or expense transaction
-- [x]Show Summary with total about Incomes, Expenses and Total
+- [x] List transactions
+- [x] Add a income or expense transaction
+- [x] Show Summary with total about Incomes, Expenses and Total
 
 ## What was used ?
 
