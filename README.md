@@ -3,6 +3,8 @@
 ## Layout
 
 To see the complete layout: [figma](https://www.figma.com/file/RPWBgabUl9NwAIh0uN0syg/Bank?type=design&node-id=42013%3A435&mode=design&t=v1kYDoxAzErhaS2Z-1)
+![image](https://github.com/jakeliny/bank/assets/17316392/485bdc20-aab6-47e4-bbf1-e45ef006ccab)
+
 
 ## Features
 
